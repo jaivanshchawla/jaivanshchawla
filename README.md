@@ -71,12 +71,18 @@
 		[![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
 
 ### Others
+![Arduino Badge](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=flat)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#)
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 
 
+
 ### Creativity
+![AutoCAD Badge](https://img.shields.io/badge/AutoCAD-E51050?logo=autocad&logoColor=fff&style=flat)
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 	[![Framer](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff)](#)
+
+### Supporting Tools
+![Arc Badge](https://img.shields.io/badge/Arc-FCBFBD?logo=arc&logoColor=000&style=flat)
