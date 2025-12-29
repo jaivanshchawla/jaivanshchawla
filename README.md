@@ -79,6 +79,7 @@
 
 ### Creativity
 ![AutoCAD Badge](https://img.shields.io/badge/AutoCAD-E51050?logo=autocad&logoColor=fff&style=flat)
+![Behance Badge](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=flat)
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
@@ -86,3 +87,7 @@
 
 ### Supporting Tools
 ![Arc Badge](https://img.shields.io/badge/Arc-FCBFBD?logo=arc&logoColor=000&style=flat)
+![Brave Badge](https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=fff&style=flat)
+
+### Sites
+![Awwwards Badge](https://img.shields.io/badge/Awwwards-222?logo=awwwards&logoColor=fff&style=flat)
