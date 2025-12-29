@@ -35,6 +35,8 @@
 
 ### Cloud & Deployment
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+![Clerk Badge](https://img.shields.io/badge/Clerk-6C47FF?logo=clerk&logoColor=fff&style=flat)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
 [![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
@@ -72,6 +74,8 @@
 
 ### Others
 ![Arduino Badge](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=flat)
+![Cursor Badge](https://img.shields.io/badge/Cursor-000?logo=cursor&logoColor=fff&style=flat)
+![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#)
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 
@@ -82,8 +86,11 @@
 ![Behance Badge](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=flat)
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
+![Dribbble Badge](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=fff&style=flat)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 	[![Framer](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff)](#)
+### AI 
+![Claude Badge](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff&style=flat)
 
 ### Supporting Tools
 ![Arc Badge](https://img.shields.io/badge/Arc-FCBFBD?logo=arc&logoColor=000&style=flat)
