@@ -90,6 +90,7 @@
 ![Dribbble Badge](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=fff&style=flat)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 	[![Framer](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff)](#)
+	![GIMP Badge](https://img.shields.io/badge/GIMP-8C8073?logo=gimp&logoColor=fff&style=flat)
 ### AI 
 ![Claude Badge](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff&style=flat)
 
