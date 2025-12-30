@@ -93,6 +93,7 @@
 	![GIMP Badge](https://img.shields.io/badge/GIMP-8C8073?logo=gimp&logoColor=fff&style=flat)
 ### AI 
 ![Claude Badge](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff&style=flat)
+![Google Gemini Badge](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini&logoColor=fff&style=flat)
 
 ### Supporting Tools
 ![Arc Badge](https://img.shields.io/badge/Arc-FCBFBD?logo=arc&logoColor=000&style=flat)
