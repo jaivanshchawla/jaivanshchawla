@@ -3,7 +3,8 @@
 </h1>
 
 ---
-
+### Contact
+![Instagram Badge](https://img.shields.io/badge/Instagram-FF0069?logo=instagram&logoColor=fff&style=flat)
 ---
 
 # Tech Stack:
