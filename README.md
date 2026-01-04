@@ -68,7 +68,7 @@
 ![LangChain Badge](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=fff&style=flat)
 ![n8n Badge](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=fff&style=flat)
 ![Ollama Badge](https://img.shields.io/badge/Ollama-000?logo=ollama&logoColor=fff&style=flat)
-
+![spaCy Badge](https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=fff&style=flat)
 ### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
