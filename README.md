@@ -119,3 +119,6 @@
 
 ### Sites
 ![Awwwards Badge](https://img.shields.io/badge/Awwwards-222?logo=awwwards&logoColor=fff&style=flat)
+
+### Github Stats
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=jaivanshchawla&theme=highcontrast&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
